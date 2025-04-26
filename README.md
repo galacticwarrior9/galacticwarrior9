@@ -1,4 +1,4 @@
-## Hi there 👋
+![Card](https://github-readme-stats-tau-black-86.vercel.app/api?username=galacticwarrior9&theme=nightowl&show_icons=true)
 
 <!--
 **galacticwarrior9/galacticwarrior9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
